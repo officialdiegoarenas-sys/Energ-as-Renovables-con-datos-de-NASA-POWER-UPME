@@ -1,0 +1,39 @@
+
+# PLANTILLA ETL: Extracción de Fuentes Múltiples (CSV y API)
+# ____________________________________________________________________________
+
+# Proyecto diseñado bajo una estructura modular y escalable para la extracción, 
+# limpieza y análisis de datos. Permite integrar fuentes locales (Excel/CSV) 
+# y conexiones directas a APIs externas (como NASA POWER).
+#
+# PROCESO DE SELECCIÓN DE TEMA (Tiempo estimado: 40 minutos):
+
+# Me tomé ese tiempo escogiendo el tema, buscando cuál de las opciones era más 
+# interesante y tuviera más información disponible, además de generar un impacto 
+# real de información para la ciudad de Cali. En ese proceso, busqué por páginas 
+# web y me fue de gran ayuda la investigación selectiva bajo mis órdenes a la 
+# IA de Perplexity. Con eso complementé la información que ya tenía a la mano y 
+# verifiqué algunas páginas oficiales frente a otras que no lo eran tanto, 
+# asegurando la consistencia de los datos para el análisis de energías 
+# renovables y potencial solar.
+
+# ____________________________________________________________________________
+
+project_name: "Transición a Energías Renovables - NASA POWER"
+author: "Diego Fernando Arenas Lasso"
+environment: "development"
+
+paths:
+  bronze: "data/bronze"
+  silver: "data/silver"
+  gold: "data/gold"
+  logs: "logs"
+
+api:
+  url: "https://power.larc.nasa.gov/api/temporal/daily/point"
+
+execution:
+  log_level: "INFO"
+  enable_hardware_monitoring: true
+
+date: "2026-10-09"

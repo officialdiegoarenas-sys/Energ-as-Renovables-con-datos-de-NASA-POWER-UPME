@@ -1,0 +1,166 @@
+2026-10-09 18:35:21,348 [INFO] =======================================================
+2026-10-09 18:35:21,348 [INFO]    INICIANDO PIPELINE: Transición a Energías Renovables - NASA POWER 
+2026-10-09 18:35:21,348 [INFO] =======================================================
+2026-10-09 18:35:21,348 [INFO] [1/3] Ejecutando Capa Bronze (Extracción)...
+2026-10-09 18:35:21,348 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-09 18:35:22,953 [INFO] ✅ Datos descargados en: data/bronze\nasa_cali_raw.csv
+2026-10-09 18:35:22,954 [INFO] =======================================================
+2026-10-09 18:35:22,954 [INFO]        ¡EXTRACCIÓN EJECUTADA CON ÉXITO!        
+2026-10-09 18:35:22,973 [INFO] =======================================================
+2026-10-09 18:38:01,871 [INFO] =======================================================
+2026-10-09 18:38:01,872 [INFO]    INICIANDO PIPELINE: Transición a Energías Renovables - NASA POWER 
+2026-10-09 18:38:01,872 [INFO] =======================================================
+2026-10-09 18:38:01,872 [INFO] [1/3] Ejecutando Capa Bronze (Extracción)...
+2026-10-09 18:38:01,872 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-09 18:38:02,930 [INFO] ✅ Datos descargados en: data/bronze\nasa_cali_raw.csv
+2026-10-09 18:38:02,931 [INFO] =======================================================
+2026-10-09 18:38:02,931 [INFO]        ¡EXTRACCIÓN EJECUTADA CON ÉXITO!        
+2026-10-09 18:38:02,931 [INFO] =======================================================
+2026-10-09 18:43:22,947 [INFO] =======================================================
+2026-10-09 18:43:22,948 [INFO]    INICIANDO PIPELINE: Transición a Energías Renovables - NASA POWER 
+2026-10-09 18:43:22,949 [INFO] =======================================================
+2026-10-09 18:43:22,949 [INFO] [1/4] Bronze: extracción NASA por ciudad...
+2026-10-09 18:43:22,949 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-09 18:43:24,017 [INFO] ✅ Datos descargados en: data/bronze/nasa_cali_raw.csv
+2026-10-09 18:43:24,018 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-09 18:43:25,269 [INFO] ✅ Datos descargados en: data/bronze/nasa_bogota_raw.csv
+2026-10-09 18:43:25,270 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-09 18:43:26,343 [INFO] ✅ Datos descargados en: data/bronze/nasa_barranquilla_raw.csv
+2026-10-09 18:43:26,345 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-09 18:43:27,489 [INFO] ✅ Datos descargados en: data/bronze/nasa_medellin_raw.csv
+2026-10-09 18:43:27,490 [INFO] =======================================================
+2026-10-09 18:43:27,491 [INFO]        ¡EXTRACCIÓN EJECUTADA CON ÉXITO!        
+2026-10-09 18:43:27,491 [INFO] =======================================================
+2026-10-10 10:04:42,852 [INFO] =======================================================
+2026-10-10 10:04:42,852 [INFO]    INICIANDO PIPELINE: Transición a Energías Renovables - NASA POWER 
+2026-10-10 10:04:42,852 [INFO] =======================================================
+2026-10-10 10:04:42,852 [INFO] [1/4] Bronze: extracción NASA por ciudad...
+2026-10-10 10:04:42,852 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 10:04:44,356 [INFO] ✅ Datos descargados en: data/bronze/nasa_cali_raw.csv
+2026-10-10 10:04:44,357 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 10:04:45,431 [INFO] ✅ Datos descargados en: data/bronze/nasa_bogota_raw.csv
+2026-10-10 10:04:45,432 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 10:04:46,522 [INFO] ✅ Datos descargados en: data/bronze/nasa_barranquilla_raw.csv
+2026-10-10 10:04:46,523 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 10:04:47,670 [INFO] ✅ Datos descargados en: data/bronze/nasa_medellin_raw.csv
+2026-10-10 10:04:47,671 [INFO] =======================================================
+2026-10-10 10:04:47,671 [INFO]        ¡EXTRACCIÓN EJECUTADA CON ÉXITO!        
+2026-10-10 10:04:47,671 [INFO] =======================================================
+2026-10-10 10:20:46,454 [INFO] =======================================================
+2026-10-10 10:20:46,455 [INFO]    INICIANDO PIPELINE: Transición a Energías Renovables - NASA POWER 
+2026-10-10 10:20:46,455 [INFO] =======================================================
+2026-10-10 10:20:46,455 [INFO] [1/4] Bronze: extracción NASA por ciudad...
+2026-10-10 10:20:46,455 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 10:20:47,857 [INFO] ✅ Datos descargados en: data/bronze/nasa_cali_raw.csv
+2026-10-10 10:20:47,858 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 10:20:48,936 [INFO] ✅ Datos descargados en: data/bronze/nasa_bogota_raw.csv
+2026-10-10 10:20:48,939 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 10:20:50,140 [INFO] ✅ Datos descargados en: data/bronze/nasa_barranquilla_raw.csv
+2026-10-10 10:20:50,146 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 10:20:51,007 [INFO] ✅ Datos descargados en: data/bronze/nasa_medellin_raw.csv
+2026-10-10 10:20:51,008 [INFO] [2/4] Silver: limpieza de datos NASA...
+2026-10-10 10:20:51,009 [INFO] Transformando datos de NASA (Silver)...
+2026-10-10 10:20:51,121 [INFO] ✅ NASA limpio guardado en Silver. Filas totales: 5844
+2026-10-10 10:20:51,122 [INFO] =======================================================
+2026-10-10 10:20:51,122 [INFO]        ¡EXTRACCIÓN Y LIMPIEZA CON ÉXITO!       
+2026-10-10 10:20:51,122 [INFO] =======================================================
+2026-10-10 19:21:39,573 [INFO] =======================================================
+2026-10-10 19:21:39,575 [INFO]    INICIANDO PIPELINE: Transición a Energías Renovables - NASA POWER 
+2026-10-10 19:21:39,575 [INFO] =======================================================
+2026-10-10 19:21:39,576 [INFO] [1/4] Bronze: extracción NASA por ciudad...
+2026-10-10 19:21:39,576 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 19:21:40,772 [INFO] ✅ Datos descargados en: data/bronze/nasa_cali_raw.csv
+2026-10-10 19:21:40,773 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 19:21:42,105 [INFO] ✅ Datos descargados en: data/bronze/nasa_bogota_raw.csv
+2026-10-10 19:21:42,108 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 19:21:43,119 [INFO] ✅ Datos descargados en: data/bronze/nasa_barranquilla_raw.csv
+2026-10-10 19:21:43,120 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 19:21:43,648 [INFO] ✅ Datos descargados en: data/bronze/nasa_medellin_raw.csv
+2026-10-10 19:21:43,649 [INFO] [1.5/4] Bronze: extracción de datos Excel...
+2026-10-10 19:21:43,650 [INFO] Leyendo archivo Excel desde: data/origen/datos_energia.xlsx
+2026-10-10 19:21:43,650 [ERROR]  Error al extraer el Excel: [Errno 2] No such file or directory: 'data/origen/datos_energia.xlsx'
+2026-10-10 19:21:43,650 [ERROR]  Error extrayendo el archivo Excel.
+2026-10-10 19:30:28,051 [INFO] =======================================================
+2026-10-10 19:30:28,052 [INFO]    INICIANDO PIPELINE: Transición a Energías Renovables - NASA POWER 
+2026-10-10 19:30:28,052 [INFO] =======================================================
+2026-10-10 19:30:28,052 [INFO] [1/2] Bronze: extracción NASA por ciudad...
+2026-10-10 19:30:28,052 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 19:30:29,156 [INFO] ✅ Datos descargados en: data/bronze/nasa_cali_raw.csv
+2026-10-10 19:30:29,157 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 19:30:29,723 [INFO] ✅ Datos descargados en: data/bronze/nasa_bogota_raw.csv
+2026-10-10 19:30:29,725 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 19:30:30,265 [INFO] ✅ Datos descargados en: data/bronze/nasa_barranquilla_raw.csv
+2026-10-10 19:30:30,265 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 19:30:31,220 [INFO] ✅ Datos descargados en: data/bronze/nasa_medellin_raw.csv
+2026-10-10 19:30:31,221 [INFO] [2/2] Silver: limpieza y separación de datos NASA...
+2026-10-10 19:30:31,221 [INFO] Iniciando transformación de datos NASA (Capa Silver)...
+2026-10-10 19:30:31,293 [INFO]  NASA CALI limpio guardado en Silver (1461 filas).
+2026-10-10 19:30:31,313 [INFO]  NASA BOGOTA limpio guardado en Silver (1461 filas).
+2026-10-10 19:30:31,331 [INFO]  NASA BARRANQUILLA limpio guardado en Silver (1461 filas).
+2026-10-10 19:30:31,349 [INFO]  NASA MEDELLIN limpio guardado en Silver (1461 filas).
+2026-10-10 19:30:31,350 [INFO] =======================================================
+2026-10-10 19:30:31,350 [INFO]        ¡EXTRACCIÓN Y LIMPIEZA CON ÉXITO!       
+2026-10-10 19:30:31,350 [INFO] =======================================================
+2026-10-10 22:17:02,170 [INFO] =======================================================
+2026-10-10 22:17:02,171 [INFO]    INICIANDO PIPELINE: Transición a Energías Renovables - NASA POWER 
+2026-10-10 22:17:02,172 [INFO] =======================================================
+2026-10-10 22:17:02,172 [INFO] [1/2] Bronze: extracción NASA por ciudad...
+2026-10-10 22:17:02,172 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 22:17:03,654 [INFO] ✅ Datos descargados en: data/bronze/nasa_cali_raw.csv
+2026-10-10 22:17:03,655 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 22:17:04,566 [INFO] ✅ Datos descargados en: data/bronze/nasa_bogota_raw.csv
+2026-10-10 22:17:04,567 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 22:17:05,618 [INFO] ✅ Datos descargados en: data/bronze/nasa_barranquilla_raw.csv
+2026-10-10 22:17:05,619 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-10 22:17:06,161 [INFO] ✅ Datos descargados en: data/bronze/nasa_medellin_raw.csv
+2026-10-10 22:17:06,163 [INFO] [2/2] Silver: limpieza y separación de datos NASA...
+2026-10-10 22:17:06,163 [INFO] Iniciando transformación de datos NASA (Capa Silver)...
+2026-10-10 22:17:06,195 [INFO]  NASA CALI limpio guardado en Silver (1461 filas).
+2026-10-10 22:17:06,212 [INFO]  NASA BOGOTA limpio guardado en Silver (1461 filas).
+2026-10-10 22:17:06,229 [INFO]  NASA BARRANQUILLA limpio guardado en Silver (1461 filas).
+2026-10-10 22:17:06,246 [INFO]  NASA MEDELLIN limpio guardado en Silver (1461 filas).
+2026-10-10 22:17:06,246 [INFO] _______________________________________________________
+2026-10-10 22:17:06,246 [INFO]        ¡EXTRACCIÓN Y LIMPIEZA CON ÉXITO!       
+2026-10-10 22:17:06,246 [INFO] _______________________________________________________
+2026-10-11 16:26:37,620 [INFO] =======================================================
+2026-10-11 16:26:37,620 [INFO]    INICIANDO PIPELINE: Transición a Energías Renovables - NASA POWER 
+2026-10-11 16:26:37,620 [INFO] =======================================================
+2026-10-11 16:26:37,621 [INFO] [1/2] Bronze: extracción NASA por ciudad...
+2026-10-11 16:26:37,621 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-11 16:26:38,704 [INFO] ✅ Datos descargados en: data/bronze/nasa_cali_raw.csv
+2026-10-11 16:26:38,705 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-11 16:26:39,634 [INFO] ✅ Datos descargados en: data/bronze/nasa_bogota_raw.csv
+2026-10-11 16:26:39,635 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-11 16:26:40,568 [INFO] ✅ Datos descargados en: data/bronze/nasa_barranquilla_raw.csv
+2026-10-11 16:26:40,569 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-11 16:26:41,064 [INFO] ✅ Datos descargados en: data/bronze/nasa_medellin_raw.csv
+2026-10-11 16:26:41,065 [INFO] [2/2] Silver: limpieza y separación de datos NASA...
+2026-10-11 16:26:41,065 [INFO] Iniciando transformación de datos NASA (Capa Silver)...
+2026-10-11 16:26:41,148 [INFO]  NASA CALI limpio guardado en Silver (1461 filas).
+2026-10-11 16:26:41,169 [INFO]  NASA BOGOTA limpio guardado en Silver (1461 filas).
+2026-10-11 16:26:41,186 [INFO]  NASA BARRANQUILLA limpio guardado en Silver (1461 filas).
+2026-10-11 16:26:41,207 [INFO]  NASA MEDELLIN limpio guardado en Silver (1461 filas).
+2026-10-11 16:26:41,207 [INFO] _______________________________________________________
+2026-10-11 16:26:41,208 [INFO]        ¡EXTRACCIÓN Y LIMPIEZA CON ÉXITO!       
+2026-10-11 16:26:41,208 [INFO] _______________________________________________________
+2026-10-11 17:39:52,990 [INFO] =======================================================
+2026-10-11 17:39:52,990 [INFO]    INICIANDO PIPELINE: Transición a Energías Renovables - NASA POWER 
+2026-10-11 17:39:52,990 [INFO] =======================================================
+2026-10-11 17:39:52,991 [INFO] [1/2] Bronze: extracción NASA por ciudad...
+2026-10-11 17:39:52,991 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-11 17:39:54,282 [INFO] ✅ Datos descargados en: data/bronze/nasa_cali_raw.csv
+2026-10-11 17:39:54,283 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-11 17:39:55,429 [INFO] ✅ Datos descargados en: data/bronze/nasa_bogota_raw.csv
+2026-10-11 17:39:55,430 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-11 17:39:56,626 [INFO] ✅ Datos descargados en: data/bronze/nasa_barranquilla_raw.csv
+2026-10-11 17:39:56,627 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-11 17:39:57,581 [INFO] ✅ Datos descargados en: data/bronze/nasa_medellin_raw.csv
+2026-10-11 17:39:57,583 [INFO] [2/2] Silver: limpieza y separación de datos NASA...
+2026-10-11 17:39:57,583 [INFO] Iniciando transformación de datos NASA (Capa Silver)...
+2026-10-11 17:39:57,616 [INFO]  NASA CALI limpio guardado en Silver (1461 filas).
+2026-10-11 17:39:57,638 [INFO]  NASA BOGOTA limpio guardado en Silver (1461 filas).
+2026-10-11 17:39:57,661 [INFO]  NASA BARRANQUILLA limpio guardado en Silver (1461 filas).
+2026-10-11 17:39:57,683 [INFO]  NASA MEDELLIN limpio guardado en Silver (1461 filas).
+2026-10-11 17:39:57,683 [INFO] _______________________________________________________
+2026-10-11 17:39:57,684 [INFO]        ¡EXTRACCIÓN Y LIMPIEZA CON ÉXITO!       
+2026-10-11 17:39:57,684 [INFO] _______________________________________________________
