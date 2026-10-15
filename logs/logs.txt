@@ -17,3 +17,7 @@
 11-10-2026 16:26:41;Cerrando Orquestador ETL;USUARIO;C:\Users\USUARIO\Desktop\Universidad\Semestre 5\ETL (Extracción, Transformación y carga)\Parcial_2_ETL\main.py;RAM:97.4%;Temp:N/A
 11-10-2026 17:39:52;Abriendo Orquestador ETL;USUARIO;C:\Users\USUARIO\Desktop\Universidad\Semestre 5\ETL (Extracción, Transformación y carga)\Parcial_2_ETL\main.py;RAM:97.7%;Temp:N/A
 11-10-2026 17:39:57;Cerrando Orquestador ETL;USUARIO;C:\Users\USUARIO\Desktop\Universidad\Semestre 5\ETL (Extracción, Transformación y carga)\Parcial_2_ETL\main.py;RAM:97.0%;Temp:N/A
+14-10-2026 06:39:23;Abriendo Orquestador ETL;USUARIO;C:\Users\USUARIO\Desktop\Universidad\Semestre 5\ETL (Extracción, Transformación y carga)\Parcial_2_ETL\main.py;RAM:91.8%;Temp:N/A
+14-10-2026 06:39:31;Cerrando Orquestador ETL;USUARIO;C:\Users\USUARIO\Desktop\Universidad\Semestre 5\ETL (Extracción, Transformación y carga)\Parcial_2_ETL\main.py;RAM:89.3%;Temp:N/A
+14-10-2026 20:23:37;Abriendo Orquestador ETL;USUARIO;C:\Users\USUARIO\Desktop\Universidad\Semestre 5\ETL (Extracción, Transformación y carga)\Parcial_2_ETL\main.py;RAM:97.0%;Temp:N/A
+14-10-2026 20:23:42;Cerrando Orquestador ETL;USUARIO;C:\Users\USUARIO\Desktop\Universidad\Semestre 5\ETL (Extracción, Transformación y carga)\Parcial_2_ETL\main.py;RAM:97.5%;Temp:N/A

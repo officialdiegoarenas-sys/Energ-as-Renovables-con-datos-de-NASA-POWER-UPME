@@ -164,3 +164,45 @@
 2026-10-11 17:39:57,683 [INFO] _______________________________________________________
 2026-10-11 17:39:57,684 [INFO]        ¡EXTRACCIÓN Y LIMPIEZA CON ÉXITO!       
 2026-10-11 17:39:57,684 [INFO] _______________________________________________________
+2026-10-14 06:39:23,066 [INFO] =======================================================
+2026-10-14 06:39:23,078 [INFO]    INICIANDO PIPELINE: Transición a Energías Renovables - NASA POWER 
+2026-10-14 06:39:23,079 [INFO] =======================================================
+2026-10-14 06:39:23,080 [INFO] [1/2] Bronze: extracción NASA por ciudad...
+2026-10-14 06:39:23,080 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-14 06:39:26,600 [INFO] ✅ Datos descargados en: data/bronze/nasa_cali_raw.csv
+2026-10-14 06:39:26,602 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-14 06:39:27,564 [INFO] ✅ Datos descargados en: data/bronze/nasa_bogota_raw.csv
+2026-10-14 06:39:27,565 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-14 06:39:28,885 [INFO] ✅ Datos descargados en: data/bronze/nasa_barranquilla_raw.csv
+2026-10-14 06:39:28,891 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-14 06:39:29,861 [INFO] ✅ Datos descargados en: data/bronze/nasa_medellin_raw.csv
+2026-10-14 06:39:29,864 [INFO] [2/2] Silver: limpieza y separación de datos NASA...
+2026-10-14 06:39:29,865 [INFO] Iniciando transformación de datos NASA (Capa Silver)...
+2026-10-14 06:39:31,076 [INFO]  NASA CALI limpio guardado en Silver (1461 filas).
+2026-10-14 06:39:31,133 [INFO]  NASA BOGOTA limpio guardado en Silver (1461 filas).
+2026-10-14 06:39:31,191 [INFO]  NASA BARRANQUILLA limpio guardado en Silver (1461 filas).
+2026-10-14 06:39:31,228 [INFO]  NASA MEDELLIN limpio guardado en Silver (1461 filas).
+2026-10-14 06:39:31,229 [INFO] _______________________________________________________
+2026-10-14 06:39:31,229 [INFO]        ¡EXTRACCIÓN Y LIMPIEZA CON ÉXITO!       
+2026-10-14 06:39:31,229 [INFO] _______________________________________________________
+2026-10-14 20:23:37,640 [INFO] =======================================================
+2026-10-14 20:23:37,641 [INFO]    INICIANDO PIPELINE: Transición a Energías Renovables - NASA POWER 
+2026-10-14 20:23:37,641 [INFO] =======================================================
+2026-10-14 20:23:37,641 [INFO] [1/2] Bronze: extracción NASA por ciudad...
+2026-10-14 20:23:37,641 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-14 20:23:39,256 [INFO] ✅ Datos descargados en: data/bronze/nasa_cali_raw.csv
+2026-10-14 20:23:39,258 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-14 20:23:40,354 [INFO] ✅ Datos descargados en: data/bronze/nasa_bogota_raw.csv
+2026-10-14 20:23:40,357 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-14 20:23:41,485 [INFO] ✅ Datos descargados en: data/bronze/nasa_barranquilla_raw.csv
+2026-10-14 20:23:41,486 [INFO] Conectando a NASA POWER: https://power.larc.nasa.gov/api/temporal/daily/point
+2026-10-14 20:23:42,801 [INFO] ✅ Datos descargados en: data/bronze/nasa_medellin_raw.csv
+2026-10-14 20:23:42,802 [INFO] [2/2] Silver: limpieza y separación de datos NASA...
+2026-10-14 20:23:42,803 [INFO] Iniciando transformación de datos NASA (Capa Silver)...
+2026-10-14 20:23:42,879 [INFO]  NASA CALI limpio guardado en Silver (1461 filas).
+2026-10-14 20:23:42,914 [INFO]  NASA BOGOTA limpio guardado en Silver (1461 filas).
+2026-10-14 20:23:42,946 [INFO]  NASA BARRANQUILLA limpio guardado en Silver (1461 filas).
+2026-10-14 20:23:42,974 [INFO]  NASA MEDELLIN limpio guardado en Silver (1461 filas).
+2026-10-14 20:23:42,975 [INFO] _______________________________________________________
+2026-10-14 20:23:42,975 [INFO]        ¡EXTRACCIÓN Y LIMPIEZA CON ÉXITO!       
+2026-10-14 20:23:42,975 [INFO] _______________________________________________________

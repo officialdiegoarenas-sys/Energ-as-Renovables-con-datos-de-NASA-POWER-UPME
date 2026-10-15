@@ -36,4 +36,6 @@ execution:
   log_level: "INFO"
   enable_hardware_monitoring: true
 
+  repository: "https://github.com/officialdiegoarenas-sys/Energ-as-Renovables-con-datos-de-NASA-POWER-UPME.git"
+
 date: "2026-10-09"
